@@ -1,2 +1,2 @@
-# vns
+# SigmaScan
 Projects
